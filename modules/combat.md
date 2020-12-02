@@ -1,4 +1,4 @@
-# Combat
+# Advanced Combat Module
 
 ## So, What Exactly is combat?
 In Journey, combat is defined as an agressive encounter where one or more parties take violent action against another. Or put simply, when someone hits someone else. Some games can be played entirely without combat as a mechanic, but considering it's popularity in RPGs I felt it would be missed if Journey didn't offer some form of formal combat mechanics.
