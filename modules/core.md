@@ -10,7 +10,7 @@ Once you roll if you are playing with a Guide it is their job to determine the o
 
 Keep in mind that not every little action requires a roll.Generally you'll only roll when failing at an action would have a consequence.
 
-**Example**
+**Example**  
 Guide:" The street is empty and the night is dark, you reach the door of the Pub where your friend told you to meet them but the door is locked. What do you do?"
 
 Traveler: "I'd like to pick the lock!"
@@ -35,17 +35,17 @@ When taking an action in Journey you Roll a 10 sided die, commonly refered to as
 ## What Are Those Other Things?
 Some outcomes have an additional flavor called Inclusions.
 
-**Setbacks**
+**Setbacks**  
 A setback is an additional occurrence determined by the Guide that hinders the Traveler or their Party's Progress in some way.
 
 Example: When you pick the lock on that door you might also trip an alarm of some kind.
 
-**Benefits**
+**Benefits**  
 A Benefit is an Inclusion determined by the Guide that aids the Traveler or their party in some small way.
 
 *Example:* While picking the lock you might over hear some piece of vital information through the door.
 
-**Twists**
+**Twists**  
 A Twist is an inclusion that takes the story in a slightly different direction.
 
 *Example:* While picking the lock you might notice blood pooling under the door.

@@ -17,7 +17,7 @@ There are 3 classifications of enemies, minor, major and mythic. Minor enemies h
 ## What can I do during a clash?
 There are 3 types of actions a Traveler can take during combat. Attacking, Defending or Aiding. Each has it's own pros and cons and you'll have to decide for yourself what is right for your character in the moment.
 
-**Attacking**
+**Attacking**  
 Attacking is an agressive action against an advesary, and can comprise a light, medium, or heavy hit. Each has it's own advantages and disadvantages, for example: light hits are faster but do less damage while heavy hits are slow but cause significantly more damage.
 
 - Light: +1 to roll. 1 Damage on success.
@@ -26,14 +26,14 @@ Attacking is an agressive action against an advesary, and can comprise a light, 
 
 Attacking an enemy who isn't being defended against leaves you open to recieving damage so coordinate attacks with your group.
 
-**Defending**
+**Defending**  
 Defending can stop incoming damage, creating an opening for another Traveler to attack without risk. There are 3 types of defenses, a dodge, a parry and a block. Each are more effective against certain types of attacks. A success mitigates all damage from an incoming attack.
 
 - Dodge. +1 to roll against Heavy attacks.
 - Parry. +1 to roll against medium attacks.
 - Block. +1 to roll against light attacks.
 
-**Aiding**
+**Aiding**  
 You can also aid your party in many ways, being a distraction, utilizing the environment in creative ways or using an item to aid in the clash. Aiding usually can only apply a +1 bonus to a single Travelers roll, but in some special cases the Guide might rule that the bonus applied to multiple Travelers.
 
 ## What can the enemy do during a clash?
