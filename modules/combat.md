@@ -9,10 +9,10 @@ Combat is meant to be quick while still offering a depth of strategy for your pa
 Take combat seriously in journey. You don't have much health and death is usually perminent.
 
 ## How much health do I have exactly?
-By default with the Combat module Travelers have 9 health. However, some modules like Special Abilities or Equipment Management, might include features which add additional health or mitigate incoming damage.
+Firstly Journey uses a metric called Stamina which represents your ability to push on. By default with the Combat module Travelers have 9 Stamina. However, some modules like Special Abilities or Equipment Management, might include features which add additional stamina or mitigate incoming damage.
 
-## How much health do my enemies have?
-There are 3 classifications of enemies, minor, major and mythic. Minor enemies have only 3 health, Major enemies have 6 while Mythic enemies have 9 health.
+## How much Stamina do my enemies have?
+There are 3 classifications of enemies, minor, major and mythic. Minor enemies have only 3 Stamina, Major enemies have 6 while Mythic enemies have 9 Stamina.
 
 ## What can I do during a clash?
 There are 3 types of actions a Traveler can take during combat. Attacking, Defending or Aiding. Each has it's own pros and cons and you'll have to decide for yourself what is right for your character in the moment.
