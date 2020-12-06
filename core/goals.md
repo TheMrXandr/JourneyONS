@@ -25,3 +25,15 @@ That's depends entirely on your character, but I'll include a few examples to he
 Minor: I will find my keys.
 Major: I will join the hockey team.
 Mythic:I will find my long lost sister!
+
+## What is Fate?
+Fate is a unique mechanic of the Journey system, a resource earned by achieving goals that lets you alter your own Fate during play.
+
+## What can I do with Fate?
+Fate can be spent on many things. Some modules may even contain additional uses for Fate.
+
+Some uses require more than one Fate and in these cases Fate can be pooled from more than one Traveler. In the core system Fate can be used for the following things:
+
+- (1) Change your roll to an <8> garunteeing a flat success.
+- (3) Alter your character's Aspects any way you like.
+- (9) Ressurect a fallen Traveler.
