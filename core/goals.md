@@ -1,3 +1,5 @@
+[Journey](/journey.md) > [Systems](content.md) > Goals
+
 # Goal Tracking System
 
 Goals offer both long and short term direction for Travelers. Achieving goals, nets powerful rewards called "Fate" which is a resource that can be exchanged for many things depending on which modules you're using for play.
