@@ -1,4 +1,4 @@
-# Journey Core Ruleset
+# Fate Rolling System
 
 ## How Do We Play?
 

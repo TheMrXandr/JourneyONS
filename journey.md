@@ -44,12 +44,12 @@ While Journey is always be played in person it was designed with distance in min
 Each Travelers should have a a few hours of free times, a way to roll a 10 sided die, and a way to communicate with the rest of the group. If you're planing on using any modules outside the core system, having a character sheet is also helpful for tracking any additional mechanics of the game.
 
 ## What are the rules?
-You can find the basic rules here: [Journey Core Ruleset](modules/core.md)
+You can find the basic rules here: [Journey Core Systems](core/rolls.md)
 
 ## But What About Combat?!
 Combat in the Core of Journey is very minimal, though if you want something more in depth take a look at the [Advanced Combat Module](modules/combat.md)
 
-On a success your apponent is incapacitated. However, on a failure you are incapacitated.
+On a success your opponent is incapacitated. However, on a failure you are incapacitated.
 
 If all Travelers are incompacitated the Guide will determine whether or not that means death based on the nature of the conflict.
 
@@ -72,9 +72,3 @@ Absolutely!
 3. Consent is key.
 
 If you need guidance with something specific or are looking to join or start a game join our community on discord(discord url)!
-
-
-
-
-
-
