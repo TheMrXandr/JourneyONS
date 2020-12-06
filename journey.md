@@ -44,7 +44,7 @@ While Journey is always be played in person it was designed with distance in min
 Each Travelers should have a a few hours of free times, a way to roll a 10 sided die, and a way to communicate with the rest of the group. If you're planing on using any modules outside the core system, having a character sheet is also helpful for tracking any additional mechanics of the game.
 
 ## What are the rules?
-You can find the basic rules here: [Journey Core Systems](core/rolls.md)
+You can find the basic rules here: [Journey Core Systems](core/content.md)
 
 ## But What About Combat?!
 Combat in the Core of Journey is very minimal, though if you want something more in depth take a look at the [Advanced Combat Module](modules/combat.md)

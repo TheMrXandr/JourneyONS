@@ -1,4 +1,4 @@
-# Fate Rolling System
+# Action Rolling System
 
 ## How Do We Play?
 
