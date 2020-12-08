@@ -1,4 +1,4 @@
-[Journey](/journey.md) > [Systems](content.md) > Aspects
+[Journey](/journey.md) */ [Systems](content.md) */ Aspects
 
 # Character Aspects System
 Defining your character is key to consistant long term RP. It's important to know what they believe and how they would react to certain situations.
