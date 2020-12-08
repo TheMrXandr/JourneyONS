@@ -51,3 +51,5 @@ A Benefit is an Inclusion determined by the Guide that aids the Traveler or thei
 A Twist is an inclusion that takes the story in a slightly different direction.
 
 *Example:* While picking the lock you might notice blood pooling under the door.
+
+[Journey](/journey.md) / [Systems](content.md) / Rolls

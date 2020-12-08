@@ -46,3 +46,5 @@ What do you look like? What color are your eyes, you hair, your skin?
 What kind of clothing do you wear? Do you have any tattoos, scars, birthmarks?
 
 *You can be as detailed or a minimal as you like, but try to picture your character and envision them in your mind.*
+
+[Journey](/journey.md) / [Systems](content.md) / Aspects

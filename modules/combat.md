@@ -47,3 +47,5 @@ Enemies have the same options as players, allowing for a diverse breadth of comb
 Guides never roll to determine outcomes for NPCs rather players roll against them. If the enemy attacks, and the player attacks, on a success both take damage on a failure neither take damage. If the NPC attacks but the player defends, on success the player takes no damage. If the NPC defends but the player attacks, 
 
 attack > aid > defense > attack
+
+[Journey](/journey.md) / [Modules](content.md) / Combat

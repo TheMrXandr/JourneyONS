@@ -39,3 +39,5 @@ Some uses require more than one Fate and in these cases Fate can be pooled from 
 - (1) Change your roll to an <8> garunteeing a flat success.
 - (3) Alter your character's Aspects any way you like.
 - (9) Ressurect a fallen Traveler.
+
+[Journey](/journey.md) / [Systems](content.md) / Goals
