@@ -1,4 +1,4 @@
-[Journey](/journey.md) > [Systems](content.md) > Rolls
+[Journey](/journey.md) / [Systems](content.md) / Rolls
 
 # Action Rolling System
 

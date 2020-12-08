@@ -1,4 +1,4 @@
-[Journey](/journey.md) > [Modules](content.md) > Combat
+[Journey](/journey.md) / [Modules](content.md) / Combat
 
 # Advanced Combat Module
 

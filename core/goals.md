@@ -1,4 +1,4 @@
-[Journey](/journey.md) > [Systems](content.md) > Goals
+[Journey](/journey.md) / [Systems](content.md) / Goals
 
 # Goal Tracking System
 

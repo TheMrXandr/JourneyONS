@@ -1,4 +1,4 @@
-[Journey](/journey.md) > Modules
+[Journey](/journey.md) / Modules
 
 # Journey Modules
 

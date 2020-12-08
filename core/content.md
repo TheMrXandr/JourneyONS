@@ -1,4 +1,4 @@
-[Journey](/journey.md) > Systems
+[Journey](/journey.md) / Systems
 
 # Journey Core Systems
 
