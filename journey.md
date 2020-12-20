@@ -6,6 +6,14 @@ We are about to go on an epic Journey. Relax, keep an open mind and remember to 
 
 Let's do this.
 
+## What now?
+
+First you'll need to learn the game.
+
+Then you'll need to learn about the world.
+
+Finally we'll build your character.
+
 ## Can I help support Journey?
 Journey is and always will be free to everyone. However, if you enjoy the system and would like to support its further development, please head over to our Patreon page and join our community. You'll not only get a special role in our discord but you'll get early access to new modules and upcoming campaign content.
 
