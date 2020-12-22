@@ -1,4 +1,4 @@
-[Journey](/journey.md) / [Systems](content.md) / Aspects
+[Journey](/wiki.md) / [Contents](/wiki/index.md) / Character - Aspects
 
 # Character Aspects System
 Defining your character is key to consistant long term RP. It's important to know what they believe and how they would react to certain situations.
@@ -47,4 +47,4 @@ What kind of clothing do you wear? Do you have any tattoos, scars, birthmarks?
 
 *You can be as detailed or a minimal as you like, but try to picture your character and envision them in your mind.*
 
-[Journey](/journey.md) / [Systems](content.md) / Aspects
+[Journey](/wiki.md) / [Contents](/wiki/index.md) / Character - Aspects
