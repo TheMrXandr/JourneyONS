@@ -3,7 +3,7 @@
 # Journey
 
 1. Acting
-    1. [Actions](actions/actions.md)
+    1. [Actions](acting/actions.md)
     2. Failures *- coming soon*
 2. Capabilities
     1. [Abilities](capabilities/abilities.md)
