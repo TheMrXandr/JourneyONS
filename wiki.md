@@ -8,7 +8,7 @@ Let's do this.
 
 ## What now?
 
-First you'll need to learn the game.
+First you'll need to learn the game of [Journey](/wiki/index.md). *- rules are incomplete.*
 
 Then you'll need to learn about the world.
 
@@ -31,9 +31,9 @@ Journey can create short one session stories or epic tales that span through yea
 
 Journey is at it's best with 3 Travelers (players) and 1 Guide, but don't let that hold you back, Journey can be played with any combination of Travelers and Guides.
 
-Each Traveler gets to create character that will act as one of the main characters in the story,while the Guide sets up the story and plays as the rest of the world, from NPCs (Non-Player Characters) to enemies and sometimes even the land itself. Their job is help the Travelers visualize and interact with the world. During Guideless play, Travelers will take turns describing and acting as the world around them.
+Each Traveler gets to create character that will act as one of the main characters in the story, while the Guide sets up the story and plays as the rest of the world, from NPCs (Non-Player Characters) to enemies and sometimes even the land itself. Their job is help the Travelers visualize and interact with the world.
 
-Usually the it is the responsibility of the Guide to determine the cconsequences for the Travelers actions, however during Guidless play, the Traveler taking the action should imagine their own fate, though sometimes their fellow Travelers might offer suggestions and that's always great.
+It is also the responsibility of the Guide to determine the cconsequences for the Travelers actions
 
 The Guide and the Travelers are always working together, collaborating on telling a unique strory, it should never feel like they are playing against each other.
 
@@ -44,9 +44,7 @@ While Journey is always best played in person it was designed with distance in m
 Each Traveler should have a few hours of free time, a way to roll a 10 sided die, and a way to communicate with the rest of the group. Having a piece of paper and a pencil to keep track of mechanics is helpful too. *Character Sheets coming soon.*
 
 ## How do I play?
-Getting started with a bare bones simple game of journey only requires the [Basics](wiki/basics/index.md)
-
-However, if you want to play the a more involved game of Journey then you'll need the [Advanced](wiki/advanced.md) rules.
+Getting started playing you really only need a Guide a number of Travelers and a way to roll for [Actions](/wiki/actions/actions.md) using a d10. However, there are many mechanics that can make the game even more structured. These advanced rules aren't complete so use at your own risk. Welcome to [Journey](/wiki/index.md).
 
 ## What now?
 
