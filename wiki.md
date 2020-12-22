@@ -23,7 +23,7 @@ Journey is about creating a story either alone or with other Travelers. Sometime
 
 The rules will help your group tell their story and determine what happens along the way.
 
-Once you have a character ready, you get to take control and decide what they do, then fate will decide how well it goes.
+Once you have a character ready, you get to take control and decide what they do, then will will decide how well it goes.
 
 Journey can create short one session stories or epic tales that span through years of play. In the end though, there's no winning or losing, it was always about the Journey.
 
@@ -44,7 +44,7 @@ While Journey is always best played in person it was designed with distance in m
 Each Traveler should have a few hours of free time, a way to roll a 10 sided die, and a way to communicate with the rest of the group. Having a piece of paper and a pencil to keep track of mechanics is helpful too. *Character Sheets coming soon.*
 
 ## How do I play?
-Getting started playing you really only need a Guide a number of Travelers and a way to roll for [Actions](/wiki/actions/actions.md) using a d10. However, there are many mechanics that can make the game even more structured. These advanced rules aren't complete so use at your own risk. Welcome to [Journey](/wiki/index.md).
+Getting started playing you really only need a Guide a number of Travelers and a way to roll for [Actions](/wiki/acting/actions.md) using a d10. However, there are many mechanics that can make the game even more structured. These advanced rules aren't complete so use at your own risk. Welcome to [Journey](/wiki/index.md).
 
 ## What now?
 

@@ -2,21 +2,24 @@
 
 # Journey
 
-1. [Actions](actions/actions.md)
+1. Acting
+    1. [Actions](actions/actions.md)
+    2. Failures *- coming soon*
 2. Capabilities
     1. [Abilities](capabilities/abilities.md)
-    2. [Fate](capabilities/fate.md)
     2. Skills
         1. Gathering *- coming soon*
         2. [Healing](capabilities/skills/healing.md)
         3. Scouting *- coming soon*
+    3. [Will](capabilities/will.md)
 3. Character 
     1. Assets
         1. Body *- coming soon*
         2. Mind *- coming soon*
         3. Soul *- coming soon*
     2. [Aspects](character/aspects.md)
-    3. [Goals](character/goals.md)
+    3. [Failures](character/failure.md)
+    4. [Goals](character/goals.md)
 4. Combat
     1. [Clashes](combat/clashes.md)
     2. [Foes](combat/foes.md)

@@ -50,6 +50,6 @@ A Twist is an inclusion that takes the story in a slightly different direction.
 *Example:* While picking the lock you might notice blood pooling under the door.
 
 ## Who decides what the Inclusion is?
-The Guide will usually decide what the inclusion is based on the scenario but sometimes they may allow a player to trade 1 [Fate](/wiki/capabilities/fate.md) to insert their own inclusion instead.
+The Guide will usually decide what the inclusion is based on the scenario but sometimes they may allow a player to trade 1 [Will](/wiki/capabilities/will.md) to insert their own inclusion instead.
 
 [Journey](/wiki.md) / [Contents](/wiki/index.md) / Actions
