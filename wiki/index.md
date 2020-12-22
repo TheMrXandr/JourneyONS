@@ -18,8 +18,7 @@
         2. Mind *- coming soon*
         3. Soul *- coming soon*
     2. [Aspects](character/aspects.md)
-    3. [Failures](character/failure.md)
-    4. [Goals](character/goals.md)
+    3. [Goals](character/goals.md)
 4. Combat
     1. [Clashes](combat/clashes.md)
     2. [Foes](combat/foes.md)
